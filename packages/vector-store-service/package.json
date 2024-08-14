@@ -44,22 +44,22 @@
     "vectorstore"
   ],
   "dependencies": {
-    "@langchain/community": "^0.2.20",
-    "@langchain/core": "^0.2.17",
+    "@langchain/community": "^0.2.27",
+    "@langchain/core": "^0.2.23",
     "@langchain/redis": "^0.0.5",
-    "redis": "^4.6.15",
+    "redis": "^4.7.0",
     "zod-to-json-schema": "3.23.1"
   },
   "devDependencies": {
     "@types/uuid": "^9.0.8",
     "atsc": "^2.1.0",
     "faiss-node": "^0.5.1",
-    "koishi": "^4.17.10",
+    "koishi": "^4.17.11",
     "vectordb": "0.4.13"
   },
   "peerDependencies": {
     "faiss-node": "^0.5.1",
-    "koishi": "^4.17.10",
+    "koishi": "^4.17.11",
     "koishi-plugin-chatluna": "^1.0.0-beta.72",
     "vectordb": "0.4.13"
   },
